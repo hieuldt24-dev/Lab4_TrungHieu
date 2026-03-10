@@ -1,0 +1,30 @@
+.navbar-brand {
+  font-size: 20px !important;
+  font-weight: 700;
+  color: #333 !important;
+  text-decoration: none;
+}
+
+/* logo image should be small and vertically centered */
+.navbar-brand img {
+  height: 32px; /* adjust as needed */
+  width: auto;
+  vertical-align: middle;
+}
+
+.brand-icon {
+  margin-right: 8px;
+  font-size: 24px;
+}
+
+.navbar {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.text-muted {
+  font-size: 14px;
+}
+
+.btn-outline-danger {
+  font-weight: 500;
+}
